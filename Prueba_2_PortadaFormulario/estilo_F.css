@@ -1,0 +1,22 @@
+a{
+    color:blueviolet;
+    text-decoration: none;
+}
+a:hover{
+    color:brown;
+}
+
+header{
+    background-color: white;
+    padding: 50px;
+    text-align: center;    
+    margin-top: 5px;
+}
+body{
+text-align: center;
+background-image: url(img/fondo2.png);
+}
+.margen
+{
+    width: 600px;
+}
